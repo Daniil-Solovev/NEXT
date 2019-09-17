@@ -30,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
     <include_path>
@@ -44,21 +44,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rjex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\sportchallenge\views" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\tz" />
       <recent name="C:\OSPanel\domains\localhost\tz\template" />
       <recent name="C:\OSPanel\domains\localhost\tz\template\js" />
       <recent name="C:\OSPanel\domains\localhost\parvito" />
       <recent name="C:\OSPanel\domains\localhost\sportchallenge" />
-      <recent name="C:\OSPanel\domains\localhost\regexp" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\localhost\sportchallenge\views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +122,7 @@
       <workItem from="1568627333743" duration="73000" />
       <workItem from="1568627407451" duration="18366000" />
       <workItem from="1568659100420" duration="2013000" />
-      <workItem from="1568705852482" duration="21554000" />
+      <workItem from="1568705852482" duration="21916000" />
     </task>
     <servers />
   </component>

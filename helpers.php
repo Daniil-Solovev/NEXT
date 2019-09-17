@@ -14,6 +14,7 @@ function checkErrors(array $errors, string $field) {
 
 
 /**
+ * Метод, осуществляющий сжатие строки
  * @param string $str
  * @return string
  */
