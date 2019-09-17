@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a525dd5b-b6de-4607-8aca-e041f6181b0d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Next" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/respect/validation" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1QujND6bYwz3Xnw4hEucLIKHDUs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rjex" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\tz\template" />
+      <recent name="C:\OSPanel\domains\localhost\tz\template\js" />
+      <recent name="C:\OSPanel\domains\localhost\parvito" />
+      <recent name="C:\OSPanel\domains\localhost\sportchallenge" />
+      <recent name="C:\OSPanel\domains\localhost\regexp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\sportchallenge\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a525dd5b-b6de-4607-8aca-e041f6181b0d" name="Default" comment="" />
+      <created>1519376253920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519376253920</updated>
+      <workItem from="1519376255207" duration="34197000" />
+      <workItem from="1519460663448" duration="813000" />
+      <workItem from="1519571020790" duration="2202000" />
+      <workItem from="1519635292296" duration="11105000" />
+      <workItem from="1519651943536" duration="2198000" />
+      <workItem from="1519730714357" duration="388000" />
+      <workItem from="1519897104412" duration="1575000" />
+      <workItem from="1519980454677" duration="393000" />
+      <workItem from="1520157164829" duration="198000" />
+      <workItem from="1520863003251" duration="3223000" />
+      <workItem from="1520871118091" duration="651000" />
+      <workItem from="1520884486159" duration="17000" />
+      <workItem from="1520927259141" duration="2410000" />
+      <workItem from="1520962619266" duration="5217000" />
+      <workItem from="1521026269590" duration="1458000" />
+      <workItem from="1521127957401" duration="6352000" />
+      <workItem from="1521188142204" duration="6173000" />
+      <workItem from="1521198990328" duration="3114000" />
+      <workItem from="1521215990747" duration="8604000" />
+      <workItem from="1521284707105" duration="1251000" />
+      <workItem from="1521297611119" duration="5516000" />
+      <workItem from="1521318961632" duration="667000" />
+      <workItem from="1521364684844" duration="7026000" />
+      <workItem from="1521549943674" duration="17242000" />
+      <workItem from="1521647713735" duration="3128000" />
+      <workItem from="1521712105923" duration="2398000" />
+      <workItem from="1521726635044" duration="7015000" />
+      <workItem from="1521738201078" duration="668000" />
+      <workItem from="1521805283149" duration="11386000" />
+      <workItem from="1522245840668" duration="917000" />
+      <workItem from="1522315974726" duration="4693000" />
+      <workItem from="1522347944481" duration="4481000" />
+      <workItem from="1522398190671" duration="5375000" />
+      <workItem from="1522417777156" duration="3777000" />
+      <workItem from="1522422324892" duration="1154000" />
+      <workItem from="1522515001202" duration="4457000" />
+      <workItem from="1568627333743" duration="73000" />
+      <workItem from="1568627407451" duration="18366000" />
+      <workItem from="1568659100420" duration="2013000" />
+      <workItem from="1568705852482" duration="21554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

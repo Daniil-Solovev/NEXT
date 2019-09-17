@@ -1,0 +1,13 @@
+{
+    "name": "desktop/test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Daniil-Solovev",
+            "email": "frontend.servise@gmail.com"
+        }
+    ],
+    "require": {
+        "respect/validation": "~1.1"
+    }
+}
